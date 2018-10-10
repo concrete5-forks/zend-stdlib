@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
+## 2.7.8 - 2018-10-10
+
+### Added
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- 3504a76485fb83fd4a3599cda5c3dcfcad4cf65f fixes a notice in ArrayObject::unserialize() for PHP 7.3
+
 ## 2.7.7 - 2016-04-12
 
 ### Added
